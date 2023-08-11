@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Login_app</string>
+    <string name="username_hint">Enter username</string>
+    <string name="password_hint">Enter password</string>
+    <string name="password_view">Password</string>
+    <string name="username_view">Username</string>
+    <string name="login_button">Login</string>
+    <string name="logout_button">Logout</string>
+    <string name="page_title">Let\'s Login</string>
+    <string name="page_content">Hi user,\nwelcome to the app. </string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
